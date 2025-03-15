@@ -1,4 +1,4 @@
-import logo from "../assets/General/mainLogoPhone.png";
+import logo from "../assets/General/MainLogo.png";
 
 export default function Header() {
     return (
