@@ -1,8 +1,8 @@
-export default function Text() {
+export default function Text(props) {
     return (
         <section className = "text">
-            <p>"Швидкість. Точність. Досконалість."</p>
-            <p>Кожен Porsche — це поєднання безкомпромісної потужності і точності, що дає водію максимальний контроль і насолоду від їзди. Безперервно вдосконалюючи технології, ми створюємо машини, які завжди залишаються на крок попереду.</p>
+            <p>{props.title}</p>
+            <p>{props.description}</p>
         </section>
     )
 }
