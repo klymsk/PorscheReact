@@ -2,8 +2,9 @@ import logo from "../assets/General/MainLogo.png";
 
 export default function Header({active, onChange}) {
     return (
+        
         <header id = "header">
-            <a href = "/" className = "logo" onClick = {() => onChange("main")} isActive = {active === "main"}>
+            <a href = "#" className = "logo" onClick = {() => onChange("main")} isActive = {active === "main"}>
                 <img src = {logo} alt = "Porsche Logo" className = "main-ico" />
             </a>
 
