@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/porscheReact/static/css/main.29ee3141.css",
-    "main.js": "/porscheReact/static/js/main.8e1c212d.js",
+    "main.css": "/porscheReact/static/css/main.f499e1d4.css",
+    "main.js": "/porscheReact/static/js/main.8a51c0ee.js",
     "static/js/453.cfe30615.chunk.js": "/porscheReact/static/js/453.cfe30615.chunk.js",
     "static/media/MainPhoto1.png": "/porscheReact/static/media/MainPhoto1.1d8ab6f1f98529bb1a28.png",
     "static/media/accessoriesImg.png": "/porscheReact/static/media/accessoriesImg.f198fa8153f2252ceb2d.png",
@@ -31,12 +31,12 @@
     "static/media/porscheTradeIn2.png": "/porscheReact/static/media/porscheTradeIn2.87b0026a3c4760347289.png",
     "static/media/TaycanModel.png": "/porscheReact/static/media/TaycanModel.3683256dfa6a155e71ec.png",
     "index.html": "/porscheReact/index.html",
-    "main.29ee3141.css.map": "/porscheReact/static/css/main.29ee3141.css.map",
-    "main.8e1c212d.js.map": "/porscheReact/static/js/main.8e1c212d.js.map",
+    "main.f499e1d4.css.map": "/porscheReact/static/css/main.f499e1d4.css.map",
+    "main.8a51c0ee.js.map": "/porscheReact/static/js/main.8a51c0ee.js.map",
     "453.cfe30615.chunk.js.map": "/porscheReact/static/js/453.cfe30615.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29ee3141.css",
-    "static/js/main.8e1c212d.js"
+    "static/css/main.f499e1d4.css",
+    "static/js/main.8a51c0ee.js"
   ]
 }
